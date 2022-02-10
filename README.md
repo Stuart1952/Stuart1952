@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stuart1952
-- 👀 I’m interested in using Github tools to make it easier to work with SQLite. I am trying to develop a number of interacting databases and I am a complete beginner in thi space.
+- 👀 I’m interested in using Github tools to make it easier to work with SQLite. I am trying to develop a number of interacting databases and I am a complete beginner in this space.
 - 🌱 I’m currently learning how to use SQLite
 - 💞️ I’m looking to collaborate on a business idea to see if I can get it to work.
 - 📫 How to reach me stuart@hackettconsulting.com.au
